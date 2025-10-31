@@ -3,7 +3,7 @@ python script to transfert ETH from sepolia testnet
 
 # 💸 ETH Transfer - Sepolia Testnet
 
-A simple **Streamlit** web app to send Ether on the **Sepolia test network**.  
+A simple **Streamlit** web app to send Ether on **Sepolia testnet**.  
 Designed for developers and learners experimenting with Ethereum transactions in a safe test environment.
 
 ## 🚀 Features
@@ -39,7 +39,7 @@ rpc_url = "https://sepolia.infura.io/v3/<your_infura_project_id>"
 
     Never use private keys containing real funds.
 
-    You can obtain free Sepolia test ETH from public faucets.
+    You can obtain free Sepolia test ETH from public faucets like Google Cloud, Chainlink or QuickNode.
 
 🪙 Author
 
