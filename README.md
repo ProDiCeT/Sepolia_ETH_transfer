@@ -1,4 +1,4 @@
-# Sepolia_ETH_transfer
+# ETH_transfer-Sepolia testnet
 python script to transfert ETH from sepolia testnet
 
 # 💸 ETH Transfer - Sepolia Testnet
@@ -23,7 +23,7 @@ pip install streamlit web3
 
 Start the Streamlit interface:
 
-streamlit run transfer_ETH_sepolia.py
+streamlit run ETH_sepolia_transfer.py
 
 Then open the local link shown in your terminal (usually http://localhost:8501).
 ⚙️ Configuration
