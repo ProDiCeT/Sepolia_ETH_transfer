@@ -1,7 +1,7 @@
 import streamlit as st
 from web3 import Web3
 
-st.set_page_config(page_title="ETH Sepolia transfer", layout="centered")
+st.set_page_config(page_title="ETH transfer sepolia testnet", layout="centered")
 
 st.title("💸 ETH transfer - Sepolia Testnet")
 
@@ -55,3 +55,4 @@ if send_button:
                     st.markdown(f"🔗 [See transaction](https://sepolia.etherscan.io/tx/0x{tx_hash.hex()})")
         except Exception as e:
             st.error(f"⚠️ Erreur : {e}")
+
