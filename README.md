@@ -4,7 +4,7 @@ python script to transfert ETH from sepolia testnet
 # 💸 ETH Transfer - Sepolia Testnet
 
 A simple Streamlit web app to send Ether on Sepolia testnet.  
-Designed for developers and learners experimenting with Ethereum transactions in a safe test environment.
+Designed for developers or learners experimenting with Ethereum transactions in a safe test environment.
 
 ## 🚀 Features
 - Minimal and secure interface (no keys are stored).
