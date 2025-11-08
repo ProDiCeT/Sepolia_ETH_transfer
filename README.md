@@ -25,7 +25,7 @@ Start the Streamlit interface:
 
 streamlit run ETH_sepolia_transfer.py
 
-Then open the local link shown in your terminal (usually http://localhost:8501).
+Then open the local link shown in your terminal (http://localhost:8501).
 ⚙️ Configuration
 
 The script connects to the Sepolia testnet using an Infura RPC endpoint:
