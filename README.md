@@ -40,7 +40,7 @@ rpc_url = "https://sepolia.infura.io/v3/<your_infura_project_id>"
 
     Never use private keys containing real funds.
 
-    You can obtain free Sepolia test ETH from public faucets like Google Cloud, Chainlink or QuickNode.
+    You can obtain free Sepolia test ETH from public faucets like Google Cloud, Chainlink, QuickNode...
 
 🪙 Author
 
