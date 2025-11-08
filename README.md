@@ -43,5 +43,5 @@ rpc_url = "https://sepolia.infura.io/v3/<your_infura_project_id>"
 
 🪙 Author
 
-Created with ❤️ by dnapog.base.eth for base network
+Created with ❤️ by dnapog.base.eth
 
