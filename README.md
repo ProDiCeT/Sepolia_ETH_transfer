@@ -1,5 +1,5 @@
 # ETH transfer on Sepolia testnet
-python script to transfert ETH from sepolia testnet
+python script to transfert ETH from ETH sepolia testnet
 
 # 💸 ETH Transfer - Sepolia Testnet
 
