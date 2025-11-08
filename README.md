@@ -33,6 +33,7 @@ The script connects to the Sepolia testnet using an Infura RPC endpoint:
 rpc_url = "https://sepolia.infura.io/v3/<your_infura_project_id>"
 
 👉 Replace <your_infura_project_id> with your own to avoid rate limits.
+
 🧠 Notes
 
     This app is for educational and testing purposes only.
