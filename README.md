@@ -7,7 +7,7 @@ A simple Streamlit web app to send Ether on Sepolia testnet.
 Designed for developers or learners experimenting with Ethereum transactions in a safe test environment.
 
 ## 🚀 Features
-- Minimal and secure interface (no keys are stored).
+- Minimal and secure interface, no keys are stored.
 - Automatic validation of private key and destination address.
 - Direct connection to Sepolia via Infura or any RPC endpoint.
 - Displays sender balance, estimated gas fee, and Etherscan transaction link.
